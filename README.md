@@ -4,7 +4,7 @@
 
 I'm a finance professional and researcher with experience in **equity research, investment analysis and financial markets**.
 
-I'm currently completing my **MSc in Finance and Investment at Brunel University London** and an cfa level 1 candidate, with a growing interest in quantitative finance, financial econometrics and market risk.
+I'm currently completing my MSc in Finance and Investment at Brunel University London and am a CFA Level I candidate, with a growing interest in quantitative finance, financial econometrics and market risk.
 
 ## 🔬 Current Research
 

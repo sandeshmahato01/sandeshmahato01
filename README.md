@@ -1,4 +1,4 @@
-##Hi, I'm Sandesh Mahato 👋
+## Hi, I'm Sandesh Mahato 👋
 
 ### MSc Finance & Investment | Financial Markets | Risk | Quantitative Finance
 
